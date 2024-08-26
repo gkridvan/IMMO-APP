@@ -62,6 +62,9 @@ The model's input features are dynamically selected based on user input from the
 - **`feature_mappings.py`**: Contains mappings for categorical features.
 - **`requirements.txt`**: List of dependencies required for the Streamlit app.
 
+## LINK 🤖
+https://ridommo-app.streamlit.app/
+
 ## Timeline 📅
 
 The project was completed over several days, involving the following stages:
@@ -74,3 +77,4 @@ The project was completed over several days, involving the following stages:
 This timeline ensured a structured and efficient approach to developing and deploying the house price prediction model.
 
 Feel free to explore and use the ImmoApp Prediction project to estimate house prices in Belgium accurately. Enjoy predicting!
+
